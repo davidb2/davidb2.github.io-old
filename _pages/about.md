@@ -20,4 +20,4 @@ Hi. I am an undergraduate student at the University of Illinois at
 Urbana-Champaign studying Mathematics and Computer Science.
 Most of my work and study is geared towards randomness, computation, and
 biological applications.
-Here is my <a href="/assets/pdf/david-brewster-cv.pdf">CV</a>.
+Here is my <a href="/files/david-brewster-cv.pdf">CV</a>.
