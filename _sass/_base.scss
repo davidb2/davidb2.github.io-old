@@ -46,6 +46,8 @@ a, table.table a {
     p {
       display: inline-block;
       margin: 0;
+      // Center for now. Can remove this later.
+      text-align: center;
     }
   }
 }
