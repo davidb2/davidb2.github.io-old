@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.png
   address: >
-    <p><a href="https://en.wikipedia.org/wiki/The_Treachery_of_Images">this is not a pic of me</a></p>
+    <p><a href="https://en.wikipedia.org/wiki/The_Treachery_of_Images">this is not me</a></p>
     <p><a href="https://sandlab.cs.uchicago.edu/fawkes/"><sup>(seriously)</sup></a></p>
 
 news: false # includes a list of news items
