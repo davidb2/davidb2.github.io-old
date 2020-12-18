@@ -2,7 +2,7 @@
 layout: page
 permalink: /misc/
 title: misc
-description: Random stuff.
+description: other stuff
 nav: true
 ---
 
