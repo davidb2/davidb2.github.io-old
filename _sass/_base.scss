@@ -31,6 +31,17 @@ a, table.table a {
   text-align: center;
 }
 
+// Blockquotes
+blockquote {
+  color: #808080;
+  font-style: italic;
+  border-left: .25em solid #dfe2e5;
+  padding: 0 1em;
+}
+blockquote p:first-child {
+  margin-top: 0;
+}
+
 
 // Profile
 

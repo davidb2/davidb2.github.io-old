@@ -1,29 +1,207 @@
 ---
 layout: post
-title:  a post with formatting and links
-date:   2015-03-15 16:40:16
-description: march & april, looking forward to summer
-published: false
+title:  Book Review - <i>Free Will</i> (2012) by Sam Harris
+date:   2020-12-28 23:00:00
+description: A book rebutting free will
+published: true
 ---
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com" target="blank">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice" target="blank">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+---
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+##### Overview
 
-<hr>
+<img
+  alt="Free Will (2012) - Sam Harris"
+  height="200px"
+  src="https://images-na.ssl-images-amazon.com/images/I/71M+MkYZA9L.jpg"
+  style="float: right; margin-left: 10px;"
+  title="Free Will (2012) - Sam Harris">
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+**Summary**: American cognitive neuroscientist, philosopher, and writer Sam
+Harris attempts to convince the reader that the idea of free will does not
+exist.
+He further goes on to claim that free will is typically a misnomer for others'
+beliefs.
+Harris compares and contrasts the philosophical ideas of
+[determinism](https://en.wikipedia.org/wiki/Determinism),
+[compatibilism](https://en.wikipedia.org/wiki/Compatibilism),
+and [libertarianism](https://en.wikipedia.org/wiki/Libertarianism_(metaphysics)).
+Harris concludes that libertarianism has no scientific support and rather spends
+some time showing how compatibilists are just determinists in disguise:
+"[Compatibilists] trade a psychological fact for a conceptual understanding of
+ourselves as persons." While arguing for his belief in determinism, Harris
+claims that determinism is compatible with the belief of a metaphysical
+presence.
+Harris gives some evidence of his claims by referencing scientific experiments
+that might convince the reader of the reality of determinism.
+Later on in the book, Harris considers the reader to think of the implications
+of determinism and specifically how society ought to treat others with regards
+to crime, punishment, justice, and welfare. 
 
-<blockquote>
-    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-    —Anais Nin
-</blockquote>
+**My familiarity with the author and the topic before reading the book**: I am
+very familiar with Harris and his ideas through his appearances on podcasts, so
+I acknowledge that my opinion of the book is heavily biased.
+I have informally discussed the topic of the book many times with others, but
+this is the first time I have been exposed to the topic on a more formal level. 
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+**Writing style**: Harris explains terms in a manner that many others will
+easily understand.
+The book is very short and concise which is a benefit.
+I'm a terribly slow reader (I have to read each word aloud in my head to fully
+understand the text), but I was able to finish the text in an afternoon
+with a solid understanding of the ideas conveyed.
+I noticed that Harris seemed to rely heavily on the punctuation marks used
+throughout the book, almost as if he were trying hard to speak conversationally
+with the reader.
+I enjoyed this natural conversational flow, but it can sometimes get confusing
+being nested in parentheses and em-dashes without being able to hear any speech
+intonation.
+I think it is important to sacrifice grammar correctness for colloquial language
+if it allows for a better transfer of thoughts. 
+
+I understand that the discussion of metaphysics is difficult to convey through
+text, but the book is littered with some ramblings about the nature of causality
+applied to Harris's actions.
+These ramblings were mostly in the form of suggestive questions and Harris
+seemed to be implying implicitly that the reader should fill in the details
+surrounding the answers to his questions.
+This is an effective method as a catalyst for self-reflection, though it
+typically does not objectively answer any questions.
+It is good that Harris did not solely rely on these rhetorical questions to
+serve as evidence for his conclusion, otherwise, the book would not be of much
+rigor.
+I am always skeptical of arguments whose foundation is solely intuition because
+human intuition can be deeply flawed.
+
+**Some of the arguments of the book (and my commentary)**: Harris defends his
+claims well with scientific evidence and deduction.
+The central claim of the book is the idea that humans take action in their lives
+because they either want to or are forced into doing so.
+According to Harris's logic, if you decide to take action on something that you
+did not want to do and you were not forced to perform this action, then this is
+simply your wanting to not wanting to take an action
+(read that again very carefully).
+This, as he explains, is the inescapable truth of determinism.
+I don't think that this argument is necessarily convincing standing on its own,
+but Harris gives some scientific arguments. 
+
+In my opinion, Harris's strongest arguments are those which rely on neuroscience
+and psychological evidence.
+For instance, Harris talks about how scientists can predict with decent accuracy
+the choice a subject will make before they act by solely monitoring the
+subject's brain activity.
+The amount of time between the prediction varies from study to study, but it
+ranges from 30 milliseconds to 7 seconds.
+There is an annotated bibliography at the end of the book and in-text citations
+are used throughout the text;
+I won't be referencing any material in this review. 
+
+Well, what about the
+[Uncertainty Principle](https://en.wikipedia.org/wiki/Uncertainty_principle)?
+Harris defines the term _free will_ as the ability for a human to have taken a
+different action in the past, according to their desires (e.g. will).
+So if we cannot accurately predict the state of a particle given all of the
+initial conditions, how is it possible to act according to one's desires?
+It would seem that the term "free will" is a misnomer in this case since it
+would seem impossible to fully understand one's own behavior.
+Admittedly, I do not know much about the Uncertainty Principle, so I cannot
+comment much on this argument.
+Though, I think it is a reasonable deduction that free will at the very least is
+a misnomer in this case. 
+
+In the latter half of the book, Harris talks about the implications of
+determinism.
+This part of the book was by far my favorite: 
+
+> "To see how fully our moral intuitions must shift, consider what would happen
+> if we discovered a cure for human evil.
+> Imagine that every relevant change in the human brain could now be made
+> cheaply, painlessly, and safely.
+> In fact, the cure could be put directly into the food supply, like vitamin D.
+> Evil would become nothing of a nutritional deficiency.
+> If we imagine a cure for evil exists, we can see that our retributive impulse
+> [to punish criminals] is morally flawed."
+
+
+He gives many more thought experiments to allow the reader to try to question
+what predicates an instinct to punish criminals rather than to long for
+rehabilitation.
+Harris points out the reader's inconsistency in cases where the defendant is
+truly insane concerning mental state and capacity.
+Harris is mainly talking about the US, though it seems that the ability for a
+defendant to plead insanity in state courts is for each state to decide
+([Kahler v. Kansas (2020)](https://scholar.google.com/scholar_case?case=14781352605474707446)).
+But why do we hold views that a defendant with a recurring or persistent
+psychiatric disease should not be held responsible for their criminal actions?
+Surely, if we could fully understand the cause of the defendant's actions and
+demonstrate its reproducibility, would the defendant truly be held responsible
+for their actions?
+Rather, we would treat these criminals as merely "unlucky" people.
+Harris mentions that we could still restrain violent criminals for the interest
+of societal well-being, but under this lens of determinism, it would seem
+morally inconsistent to
+"[withhold] the cure for evil [...] as a part of [a criminal's] punishment." 
+
+The US Supreme Court
+([Morissette v. United States (1952)](https://scholar.google.com/scholar_case?case=787130527265701764))
+says that free will is "universal and persistent in mature
+systems of law" and is the "consequent ability and duty of the normal individual
+to choose between good and evil."
+The US Supreme Court
+([United States v. Grayson (1978)](https://scholar.google.com/scholar_case?case=238211167095773011))
+also says that determinism is
+"inconsistent with the underlying precepts of our criminal justice system."
+
+The implications of discovering determinism to be true ought to cause a
+fundamental change in the way the justice system works, even in the words of the
+US Supreme Court.
+In the chapter titled "Moral Responsibility", Harris does a fantastic job
+questioning why our society operates as if free will exists without much of any
+evidence for support. 
+
+**Something new I learned**: The US criminal justice system operates with the
+assumption that humans have free will. 
+
+**Recommendation**: If you are not familiar with the concept of determinism,
+then this is a good book to read to gain perspective.
+If you are familiar with determinism, some of the chapters might not be useful,
+but I highly recommend at least reading Harris's discussion in the chapter
+titled "Moral Responsibility". 
+
+---
+
+##### Epistemological Metrics 
+
+**How strongly were you convinced of the author's argument before reading the
+book?**:
+I have always thought that determinism is a reasonable paradigm for reality
+based on the science that we know so far.
+I believe that the idea of free will is a product of human exceptionalism
+(whose truthfulness lacks scientific evidence/rigor), so I am very skeptical of
+the claims libertarianism asserts.
+So while I'm not completely convinced of determinism, I think that the views of
+determinism far, far, _far_ outweigh competing contemporary views based on the
+scientific evidence we have so far in terms of truthfulness. 
+
+**How did the author's argument affect the strength of the belief you previously
+held?**:
+I don't think my views on the truthfulness of determinism changed much.
+However, my views on justice and human welfare have changed a bit following some
+of the discussions that Harris made. 
+
+**What piece of evidence would make you more convinced of the author's
+arguments?**:
+Regarding determinism, reading some more scientific experiments on the topic
+would further convince me.
+I would also like to see experiments where the scientists were not able to
+predict the actions of the subjects with high accuracy.
+I think it would be necessary to have some experiments testing the claim of free
+will.
+We could conduct short experiments that measure the amount a person attributes
+their completion of a predefined task to their starting conditions,
+having the scientists alter the starting conditions for different subjects.
+
+---
+
+The book is available on Apple Books
+[here](https://books.apple.com/us/book/free-will/id486440389).
