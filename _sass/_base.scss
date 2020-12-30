@@ -42,6 +42,52 @@ blockquote p:first-child {
   margin-top: 0;
 }
 
+// Latex stuff.
+.theorem {
+  // display: block;
+  margin: 12px 0;
+  font-style: italic;
+}
+.theorem:before {
+  content: "Theorem.";
+  font-weight: bold;
+  font-style: normal;
+}
+.lemma {
+  display: block;
+  margin: 12px 0;
+  font-style: italic;
+}
+.lemma:before {
+  content: "Lemma.";
+  font-weight: bold;
+  font-style: normal;
+}
+.proof {
+  display: block;
+  margin: 12px 0;
+  font-style: normal;
+}
+.proof:before {
+  content: "Proof.";
+  font-style: italic;
+}
+.proof:after {
+  // 25FC is closed.
+  content: "\25FB";
+  float:right;
+}
+.definition {
+  display: block;
+  margin: 12px 0;
+  font-style: normal;
+}
+.definition:before {
+  content: "Definition.";
+  font-weight: bold;
+  font-style: normal;
+}
+
 
 // Profile
 
