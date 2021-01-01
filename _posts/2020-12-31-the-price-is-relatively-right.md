@@ -38,7 +38,6 @@ Consider the following variation of the game:
     help advise him throughout the game.
     The advice must be in a form so that it directly answers the question given
     by the host.
-  * There are $$T$$ rounds in total.
   * In round $$t$$, the game show host presents the prize along with a suggested
     price $$q^{(t)}$$ and width $$k^{(t)}$$; the actual price $$p^{(t)}$$ is kept secret.
     The contestant must determine whether $$|p^{(t)}-q^{(t)}|\leq k^{(t)}$$.
@@ -105,7 +104,7 @@ After $$t$$ rounds, let $$m_i^{(t)}$$ be the number of mistakes that expert
 $$i$$ has made and $$m^{(t)}$$ be the number of mistakes we have made.
 One strategy would be to ignore the experts and randomly (uniformly) make a
 decision.
-This strategy will yield $$\mathbb E\, m^{(t)} = T/2$$.
+This strategy will yield $$\mathbb E\, m^{(t)} = t/2$$.
 Another strategy would be to pick the answer from the experts uniformly at
 random.
 This leads to a strategy with $$\mathbb E\, m^{(t)} = \frac1n\sum_i m_i^{(t)}$$.
@@ -113,7 +112,7 @@ Surprisingly, the following result holds:
 
 **Theorem 2.** <i>There is a strategy such that
 $$m^{(t)} \leq \frac{2\ln n}{\varepsilon} + 2(1+\varepsilon)m_i^{(t)}$$
-for every $$\varepsilon \in (0, 1/2)$$, $$i\in [n]$$, and $$t\in [T]$$.
+for every $$\varepsilon \in (0, 1/2)$$, $$i\in [n]$$, and $$t\in \mathbb Z_{\geq0}$$.
 </i>
 
 In particular, this is saying that we can _approximately_ perform at
@@ -158,7 +157,7 @@ the RHS.
  
 **Theorem 3.** <i>There is a strategy such that
 $$\mathbb E\,m^{(t)} \leq \frac{\ln n}{\varepsilon} + (1+\varepsilon)m_i^{(t)}$$
-for every $$\varepsilon \in (0, 1/2)$$, $$i\in [n]$$, and $$t\in [T]$$.
+for every $$\varepsilon \in (0, 1/2)$$, $$i\in [n]$$, and $$t\in\mathbb Z_{\geq0}$$.
 </i>
 
 **Proof:**
@@ -211,7 +210,7 @@ advises a bid of $$q_i^{(t)}$$ in round $$t$$.
 
 **Theorem 4.** <i>There is a strategy such that
 $$\mathbb E\,\gamma^{(t)} \leq \frac{\ln n}{\varepsilon} + (1+\varepsilon)\sum_{r=1}^t \gamma_i^{(r)}$$
-for every $$\varepsilon \in (0, 1/2)$$, $$i\in [n]$$, and $$t\in [T]$$.
+for every $$\varepsilon \in (0, 1/2)$$, $$i\in [n]$$, and $$t\in\mathbb Z_{\geq0}$$.
 </i>
 
 For example, if we have
@@ -230,7 +229,9 @@ $$w_i^{(t+1)}\gets (1-\varepsilon\gamma_i^{(t)})w_i^{(t)}.$$
 
 #### Conclusion
 It is great to see error bounds which depend on the performance of the best expert.
-One should hope they select [Ted Slauson](https://en.wikipedia.org/wiki/Perfect_Bid:_The_Contestant_Who_Knew_Too_Much) as one of their $$n$$ experts.
+One should hope they select
+[Ted Slauson](https://en.wikipedia.org/wiki/Perfect_Bid:_The_Contestant_Who_Knew_Too_Much)
+as one of their $$n$$ experts.
 
 The strategies presented above are known as "multiplicative weight update"
 methods and have a wide range of applications, especially in
