@@ -229,7 +229,7 @@ $$w_i^{(t+1)}\gets (1-\varepsilon\gamma_i^{(t)})w_i^{(t)}.$$
 ---
 
 #### Conclusion
-It is unusual to see error bounds which depend on the performance of the best expert.
+It is great to see error bounds which depend on the performance of the best expert.
 One should hope they select [Ted Slauson](https://en.wikipedia.org/wiki/Perfect_Bid:_The_Contestant_Who_Knew_Too_Much) as one of their $$n$$ experts.
 
 The strategies presented above are known as "multiplicative weight update"
