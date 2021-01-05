@@ -105,7 +105,9 @@ $$i$$ has made and $$m^{(t)}$$ be the number of mistakes we have made.
 One strategy would be to ignore the experts and randomly (uniformly) make a
 decision.
 This strategy will yield $$\mathbb E\, m^{(t)} = t/2$$.
-Another strategy would be to pick the answer from the experts uniformly at
+Another strategy would be to use a simple majority vote.
+This will guarantee $$m^{(t)} \leq \frac2n \sum_i m_i^{(t)}$$.
+Yet another strategy would be to pick the answer from the experts uniformly at
 random.
 This leads to a strategy with $$\mathbb E\, m^{(t)} = \frac1n\sum_i m_i^{(t)}$$.
 Surprisingly, the following result holds:
