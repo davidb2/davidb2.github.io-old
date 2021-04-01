@@ -71,6 +71,10 @@ pagination:
 # Comments
 disqus_shortname: # put your disqus shortname
 
+# Sass imports
+sass:
+  sass_dir: _sass
+
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
@@ -84,6 +88,12 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  reviews:
+    output: true
+    permalink: /reviews/:path/
+  books:
+    output: true
+    permalink: /reviews/books/:path/
 
 news_limit: 5
 
@@ -153,6 +163,7 @@ enable_mansory:           true
 enable_math:              true
 enable_tooltips:          false
 enable_darkmode:          true
+enable_sortable:          true
 show_social_icons:        false
 
 # -----------------------------------------------------------------------------

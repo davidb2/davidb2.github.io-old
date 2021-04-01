@@ -18,6 +18,14 @@ pagination:
   <div class="header-bar">
     <h1>{{ site.blog_name }}</h1>
     <h2>{{ site.blog_description }}</h2>
+    <!-- display the categories for reviews -->
+    <h6>
+      reviews:
+      {% for review in site.reviews %}
+        <a href="{{ review.url | prepend: site.url }}">{{ review.title }}</a>
+        {% if forloop.last %}{% else %} | {% endif %}
+      {% endfor %}
+    </h6>
   </div>
 
 
