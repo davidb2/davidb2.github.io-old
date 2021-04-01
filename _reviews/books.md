@@ -38,7 +38,8 @@ type: category
       <td>Sam Harris</td>
       <td>
         an argument refuting free will and compatibilism.
-        More <a href="/reviews/books/free-will">here</a>.
+        More
+        <a href="{{ site.url }}{% link _books/2020-12-28-free-will.md %}">here</a>.
       </td>
     </tr>
   </tbody>
