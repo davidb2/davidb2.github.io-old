@@ -481,8 +481,6 @@ html.transition *:after {
 
 // Table.
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700');
-@import 'sortable/sortable-theme-light.scss';
-@import 'sortable/sortable-theme-dark.scss';
 
 $base-spacing-unit: 24px;
 $half-spacing-unit: $base-spacing-unit / 2;
@@ -558,10 +556,6 @@ $color-form-highlight: #EEEEEE;
   }
 }
 
-.table-review[data-theme='dark'] {
-  @extend .sortable-theme-dark;
-}
-
-.table-review {
-  @extend .sortable-theme-light;
+#book-reviews {
+  color: black !important;
 }

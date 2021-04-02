@@ -4,13 +4,13 @@ title: books
 type: category
 ---
 
-<table class="table-review" data-sortable>
+<table class="display" id="book-reviews">
   <thead>
     <tr>
-      <th data-sorted="true" data-sorted-directed="ascending">Book</th>
-      <th data-sorted="true" data-sorted-directed="descending">Year</th>
+      <th>Book</th>
+      <th>Year</th>
       <th>Author</th>
-      <th>Comments</th>
+      <th data-sortable="false">Comments</th>
     </tr>
   </thead>
   <tbody>
@@ -32,6 +32,7 @@ type: category
         short book.
       </td>
     </tr>
+
     <tr>
       <td><i>Free Will</i></td>
       <td>2012</td>
@@ -40,6 +41,54 @@ type: category
         an argument refuting free will and compatibilism.
         More
         <a href="{{ site.url }}{% link _books/2020-12-28-free-will.md %}">here</a>.
+      </td>
+    </tr>
+
+    <tr>
+      <td><i>Utilitarianism</i></td>
+      <td>1861</td>
+      <td>John Stuart Mill</td>
+      <td>
+        a defense of utilitarianism [normative ethics].
+      </td>
+    </tr>
+
+    <tr>
+      <td><i>The Selfish Gene</i></td>
+      <td>1976</td>
+      <td>Richard Dawkins</td>
+      <td>
+        an argument for a gene-centered perspective of natural selection and
+        evolution.
+      </td>
+    </tr>
+
+    <tr>
+      <td><i>Ethics in the Real World: 82 Brief Essays on Things that Matter</i></td>
+      <td>2016</td>
+      <td>Peter Singer</td>
+      <td>
+        a collection of short commentaries on modern-day issues: technology,
+        bioethics, environmental ethics, and charity [applied ethics].
+      </td>
+    </tr>
+
+    <tr>
+      <td><i>Conciousness Explained</i></td>
+      <td>1991</td>
+      <td>Daniel Dennett</td>
+      <td>
+        a discussion about zombies, heterophenomenology, and the multiple drafts
+        model.
+      </td>
+    </tr>
+
+    <tr>
+      <td><i>A Thousand Brains: A New Theory of Intelligence</i></td>
+      <td>2021</td>
+      <td>Jeff Hawkins</td>
+      <td>
+        -
       </td>
     </tr>
   </tbody>
