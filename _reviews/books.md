@@ -25,7 +25,7 @@ type: category
         but as the story progresses, the pigs of the farm steadily take the role
         of the human farmer, the story ending with the other farm animals not
         being able to tell the difference between humans and pigs.
-        This story is an allegory reflecting and critisizing the events of the
+        This story is an allegory reflecting and criticizing the events of the
         <a href="https://en.wikipedia.org/wiki/Russian_Revolution">Russian Revolution of 1917</a>
         and the
         <a href="https://en.wikipedia.org/wiki/Soviet_Union">USSR</a>.
