@@ -21,15 +21,15 @@ type: category
       <td>
         a story about farm arnimals revolting against the human farmers in an
         attempt to be self-controlled.
-        The plan seems to be a success as the farm animals scare off the farmer,
+        the plan seems to be a success as the farm animals scare off the farmer,
         but as the story progresses, the pigs of the farm steadily take the role
         of the human farmer, the story ending with the other farm animals not
         being able to tell the difference between humans and pigs.
-        This story is an allegory reflecting and criticizing the events of the
+        this story is an allegory reflecting and criticizing the events of the
         <a href="https://en.wikipedia.org/wiki/Russian_Revolution">Russian Revolution of 1917</a>
         and the
         <a href="https://en.wikipedia.org/wiki/Soviet_Union">USSR</a>.
-        short book.
+        short book. [political satire]
       </td>
     </tr>
 
@@ -40,7 +40,7 @@ type: category
       <td>
         an argument refuting free will and compatibilism.
         More
-        <a href="{{ site.url }}{% link _books/2020-12-28-free-will.md %}">here</a>.
+        <a href="{{ site.url }}{% link _books/2020-12-28-free-will.md %}">here</a>. [free will]
       </td>
     </tr>
 
@@ -58,8 +58,13 @@ type: category
       <td>1976</td>
       <td>Richard Dawkins</td>
       <td>
-        an argument for a gene-centered perspective of natural selection and
-        evolution.
+        genes, memes, and evolutionary game theory: an argument for a
+        gene-centered perspective of natural selection and evolution.
+        fantastic writing, especially with the abstractions of the
+        vehicles vs. the replicators.
+        Dawkins says that <i>The Immortal Gene</i> would have made for a more
+        accurate title as the contents of the book are purely descriptive.
+        [evolutionary biology]
       </td>
     </tr>
 
@@ -69,7 +74,8 @@ type: category
       <td>Peter Singer</td>
       <td>
         a collection of short commentaries on modern-day issues: technology,
-        bioethics, environmental ethics, and charity [applied ethics].
+        bioethics, environmental ethics, politics, and charity. very
+        well-written. [applied ethics]
       </td>
     </tr>
 
@@ -79,7 +85,7 @@ type: category
       <td>Daniel Dennett</td>
       <td>
         a discussion about zombies, heterophenomenology, and the multiple drafts
-        model.
+        model. [philosophy of mind]
       </td>
     </tr>
 
@@ -88,7 +94,16 @@ type: category
       <td>2021</td>
       <td>Jeff Hawkins</td>
       <td>
-        -
+        an overview of what we know about the neocortex,
+        specifically detailing the evidence for the paradigm of reference
+        frames. second part of the book gives a high level account of
+        <a href="https://en.wikipedia.org/wiki/Hierarchical_temporal_memory">
+          hieracrchical temporal memory
+        </a>.
+        the third part of the book speculates about the future of intelligence:
+        this part could have been left out of the final draft and instead be
+        replaced with more details about the topics of the first two parts of
+        the book. [neuroscience]
       </td>
     </tr>
   </tbody>
