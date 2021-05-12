@@ -106,5 +106,14 @@ type: category
         the book. [neuroscience]
       </td>
     </tr>
+
+    <tr>
+      <td><i>Are Prisons Obsolete?</i></td>
+      <td>2003</td>
+      <td>Angela Davis</td>
+      <td>
+        -
+      </td>
+    </tr>
   </tbody>
 </table>
