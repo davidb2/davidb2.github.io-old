@@ -53,7 +53,7 @@ type: category
         requirement, which Harris argues is inconsistent.
         furthermore, some strands of compatibilism either mistake phenomenology
         for ontology or try to solely talk about free will only in terms of how
-        it impacts moral responsibility, and hence misleading.
+        it impacts moral responsibility, and hence is misleading.
         in fact, it is argued by Harris that a lack of free will is compatible
         with moral responsibility: "If we could incarcerate earthquakes and
         hurricanes for their crimes, we would build prisons for them as well. ...
@@ -197,11 +197,11 @@ type: category
         an attempt to criticize and invoke skepticism on the concept of prisons.
         the work draws upon parallels of other hieracrchical systems (such as
         human slavery and gender inequality) to show similarities in both the
-        flaws of such systems and how the early stages of each of the justice 
+        flaws of such systems and how the early stages of each of their justice 
         movements (abolitionist and women's rights movements, resp.) were
         treated by the people during the respective eras.
         Davis shows how prison <i>abolition</i> differs from prison <i>reform</i>
-        and deals with other common criticism.
+        and deals with other common criticisms.
         short book. [politics]
       </td>
     </tr>
