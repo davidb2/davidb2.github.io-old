@@ -91,7 +91,7 @@ type: category
         but that it instead would behoove A to <i>consider</i> performing X instead
         of Y in <i>similar future scenarios</i>, i.e. the ability to easily
         <i>augment</i> the weights of A's decision making process without a large
-        expenditure of energy from other actors.
+        expenditure of energy from other objects.
         importantly, these ideas are not violating causation and are less
         susceptible to equivocations of free will that give an unattainable degree
         of moral responsibility.
