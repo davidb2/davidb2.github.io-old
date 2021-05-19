@@ -77,7 +77,7 @@ type: category
         it does seem important to tread the fine line between hard
         deterministic views and the original theological conceptions of the phrase:
         i) the former ultimately leads to metaphysical anti-realism accounts,
-        which in large part necessarily undermine human language, and ii) the
+        which in large part necessarily undermine language, and ii) the
         latter notion was based off of the lack of a proper understanding of
         neuroscience, well at least if free will has anything to do with the
         brain/command center.
@@ -91,16 +91,19 @@ type: category
         but that it instead would behoove A to <i>consider</i> performing X instead
         of Y in <i>similar future scenarios</i>, i.e. the ability to easily
         <i>augment</i> the weights of A's decision making process without a large
-        expenditure of energy from other objects.
+        expenditure of energy from other objects, a form of self-control.
         importantly, these ideas are not violating causation and are less
         susceptible to equivocations of free will that give an unattainable degree
         of moral responsibility.
-        so in conclusion, the term "free will" employed by various compatibilists
-        is vague and prone to unwarranted equivocations,
+        so in conclusion, the term "free will" employed by various
+        compatibilists is vague and prone to unwarranted equivocations,
         some of which might lead to the stagnation of moral progress.
-        a better term to use would be "decision" or "choice", and the people
-        advocating this would be called "soft determinists", a term on which
-        Harris and Dennett's ideas seem to converge.
+        a better term to use would be "decision" or "choice", and the
+        compatibilists advocating this would be called "soft determinists",
+        a term on which Harris and Dennett's ideas seem to converge.
+        further, the contemporary conversation around free will is fundamentally
+        flawed at best, and is focused on unimportant issues
+        (e.g. ex nihilo causation).
       </td>
     </tr>
 
@@ -155,7 +158,7 @@ type: category
       <td>Peter Singer</td>
       <td>
         a collection of short arguments and commentaries on modern-day issues:
-        technology, bioethics, environmental ethics, politics, and effictive
+        technology, bioethics, environmental ethics, politics, and effective
         altruism.
         very well-written. [applied ethics]
       </td>
