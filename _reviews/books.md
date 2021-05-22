@@ -211,9 +211,11 @@ type: category
         potential conversational avenue: the intention of the phrase does not match
         its semantic properties; the phrase "i could <b>not</b> care less!" would
         make much more sense.
-        however, it must be something with the rhythm, meter, cadence, and most
-        descriptively, the closeness of the consonance (voiceless velar plosive)
-        of the former phrase that causes it to be more likely to be immitated.
+        however, it must be something with the rhythm, meter, and most
+        descriptively, the cadence of the consonance (voiceless velar plosive)
+        of the former phrase that causes it to be more likely to be immitated;
+        this is one explanation from a linguistic perspective that may or may
+        not be true.
         [evolutionary biology]
       </td>
     </tr>
@@ -228,7 +230,14 @@ type: category
         altruism.
         ---
         some more thoughts:
-        very well-written. [applied ethics]
+        very well-written. one of the conclusions reached by Singer is that if
+        if we think that the value of human life is generally
+        equal, then we should reflect this thinking when spending and donating
+        money.
+        this means that it becomes unjustified to place welfare priority of people
+        of your community above people of other communities.
+        (some more thoughts to be placed here later ...)
+        [applied ethics]
       </td>
     </tr>
 
