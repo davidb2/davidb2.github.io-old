@@ -155,7 +155,7 @@ type: category
         arguments in the book take a similar form:
         <ol>
           <li> what do we observe in nature? </li>
-          <li> is there an interpretation of this observation at the level of genes? </li>
+          <li> is there an interpretation of this observation at the level of the genes? </li>
           <li> does this interpretation match previous observations well?
                is this interpretation provide as much or more prediction utility
                than non-kin selection theories (e.g., group selection)?
@@ -165,7 +165,8 @@ type: category
         to make these arguments more rigorous, Dawkins gives plenty of
         examples of how evolutionary biology research has utilized
         John Maynard Smith's work on evolutionary game theory. 
-        an <b><i>evolutionarily stable strategy (ESS)</i></b> is a agent model in which:
+        an <b><i>evolutionarily stable strategy (ESS)</i></b> is an agent model
+        in which
         small perturbations to the proportions of available types of agents
         will not disturb the existing dynamic.
         we can think of this as follows:
