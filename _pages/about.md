@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi. I am an undergraduate student at the University of Illinois at
+Hi. I completed my undergraduate degrees at the University of Illinois at
 Urbana-Champaign studying Mathematics and Computer Science.
 Most of my work and study is geared towards randomness, computation, and
 biological applications.

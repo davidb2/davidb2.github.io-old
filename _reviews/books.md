@@ -364,5 +364,18 @@ type: category
         [philosophy of mind, neuroscience, applied ethics]
       </td>
     </tr>
+
+    <tr>
+      <td><i>Conscience: The Origins of Moral Intuition</i></td>
+      <td>2019</td>
+      <td>Patricia Churchland</td>
+      <td>
+        an account for how evolution by natural selection has shaped the moral
+        compass in humans. still reading ...
+        ---
+        some more notes/thoughts:
+        [neuroscience, ethics]
+      </td>
+    </tr>
   </tbody>
 </table>
