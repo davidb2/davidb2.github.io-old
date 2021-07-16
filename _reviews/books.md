@@ -9,7 +9,7 @@ type: category
     <tr>
       <th>Book</th>
       <th>Year</th>
-      <th>Author</th>
+      <th>Author(s)</th>
       <th data-sortable="false">Comments</th>
     </tr>
   </thead>
@@ -43,12 +43,10 @@ type: category
       <td>
         an argument refuting libertarian
         <a href="https://plato.stanford.edu/entries/freewill/">
-        free will
-        </a>
+        free will</a>
         and criticizing different strands of
         <a href="https://plato.stanford.edu/entries/compatibilism/">
-        compatibilism
-        </a>
+        compatibilism</a>
         the basic argument is that any proclaimation of causation necessitates
         some explanation of the ontology of an object.
         in the case of libertarian free will, somehow humans avoid this
@@ -104,7 +102,7 @@ type: category
         a term on which Harris and Dennett's ideas seem to converge.
         further, the contemporary conversation around free will is fundamentally
         flawed at best, and is focused on unimportant issues
-        (e.g. ex nihilo causation).
+        (e.g. <i>ex nihilo</i> causation).
         [free will]
       </td>
     </tr>
@@ -231,13 +229,17 @@ type: category
         altruism.
         ---
         some more thoughts:
-        very well-written. one of the conclusions reached by Singer is that if
+        very well-written.
+        each essay is merely around 1000 words, so the arguments are not
+        rigorous in any way.
+        one of the conclusions reached by Singer is that if
         if we think that the value of human life is generally
         equal, then we should reflect this thinking when spending and donating
         money.
         this means that it becomes unjustified to place welfare priority of people
         of your community above people of other communities.
-        (some more thoughts to be placed here later ...)
+        another brief essay is on the proposal to have a universal digital
+        public library.
         [applied ethics]
       </td>
     </tr>
@@ -247,11 +249,11 @@ type: category
       <td>1991</td>
       <td>Daniel Dennett</td>
       <td>
-        a discussion about zombies, heterophenomenology, eliminative materialism,
+        a discussion about (p-)zombies, heterophenomenology, eliminative materialism,
         and the multiple drafts model.
         ---
         some more thoughts:
-        long book ... still reading ... good so far ...
+        long book ... still reading ... 
         [philosophy of mind, neuroscience]
       </td>
     </tr>
@@ -294,7 +296,11 @@ type: category
         and deals with other common criticisms.
         ---
         some more thoughts:
-        short book. [politics]
+        short book.
+        seems like the thesis of the book is that society should shift efforts
+        more towards improving schooling, healthcare, etc. in an attempt to
+        eliminate the idea of a "criminal" class.
+        [politics]
       </td>
     </tr>
 
@@ -371,10 +377,219 @@ type: category
       <td>Patricia Churchland</td>
       <td>
         an account for how evolution by natural selection has shaped the moral
-        compass in humans. still reading ...
+        compass in humans.
+        Churchland makes discussion on mammalian brains and the different
+        trade-offs made between species.
+        there is some discussion about the neurotransmitters and how they
+        affect the the brain and the body's actions.
+        the final chapters was a critical analysis of ethical systems people
+        have devised over human history and why they have failed.
         ---
         some more notes/thoughts:
+        a very bland book.
+        maybe it would have been better if the book was a little longer
+        (especially towards the end) in order to go into some more depth on
+        ethics,
+        maybe even examine edge-cases to the particular thesis.
+        the first half of the book is informative though, detailing how
+        oxytocin, serotonin, dopamine, etc. affect behavior in mammals.
         [neuroscience, ethics]
+      </td>
+    </tr>
+
+    <tr>
+      <td><i>Freedom Evolves</i></td>
+      <td>2003</td>
+      <td>Daniel Dennett</td>
+      <td>
+        a compatibilistic account for free will.
+        by detailing Conway's Game of Life, the argument starts off by showing 
+        how determinism does not imply fatalism.
+        Dennett distinguishes 
+        ---
+        some more notes/thoughts:
+        [free will, evolutionary biology, neuroscience]
+      </td>
+    </tr>
+
+    <tr>
+      <td><i>Anthem</i></td>
+      <td>1938</td>
+      <td>Ayn Rand</td>
+      <td>
+        a fictional criticism of communal societies and an advocation for
+        egoism.
+        the main two characters discover individualism and find
+        themselves outcasts in
+        a communal society.
+        ---
+        some more notes/thoughts:
+        very short book.
+        the problem with the message of this book is that it is symmetric.
+        Rand really never explains why (1) egoism leads to individualism
+        (i.e. what the main characters champion in the book)
+        and (2) how the dystopian reality is asymmetric.
+        on (1), it might be the case that egoism leads to a form of altruistic
+        behavior.
+        this is essentially how some religions in the world:
+        do good in order to experience paradise, but good might necessarily 
+        involve helping others.
+        note the distinction between <i>behavior</i> and <i>intentions</i>.
+        on (2), it was never made clear why the distopian society had to be
+        communal.
+        consider a distopian society where everyone acts purely 
+        individualistically such that there is no widespread dispersion
+        of knowledge, not much cooperation going on, etc.
+        people in this society might benefit by joining their talents together.
+        so this is either a conclusion that (a) Rand did not provide why this
+        individualistic distopian society is unlikely to exist, or (b) Rand did
+        not answer (1).
+        [distopian fiction]
+      </td>
+    </tr>
+
+    <tr>
+      <td><i>The Life You Can Save</i></td>
+      <td>2009</td>
+      <td>Peter Singer</td>
+      <td>
+        ---
+        some more notes/thoughts:
+        [applied ethics]
+      </td>
+    </tr>
+
+    <tr>
+      <td><i>Animal Liberation</i></td>
+      <td>1975</td>
+      <td>Peter Singer</td>
+      <td>
+        a rigorous attack on all forms of arbitrary discrimination: racism,
+        sexism, and, the focus of this book,
+        <a href="https://plato.stanford.edu/entries/moral-animal/#Spec">
+        speciesism</a>.
+        these types of discrimination have profound consequences in society;
+        Singer focuses on non-human animal experimentation
+        (medical, cosmetics, psychological, etc.)
+        and industrial farming
+        (where most animal products in food come from).
+        the ending of the book goes over practical solutions and how
+        philosophers, historical figures, religions have treated this issue.
+        ---
+        some more notes/thoughts:
+        definitely an eye-opening book.
+        Singer uses a hedonistic utilitarian normative theory for this entirety
+        of the book.
+        the term "rigorous" was a bit of an understatement: the book starts off
+        by combating the neo-Cartesian view of philosophy of mind, that humans
+        are the only animals that can experience, feel, and comprehend pain.
+        to do this, Singer shows why solipsism is an untennable position and
+        works from that argument to show that the same methods apply to
+        organisms with brains very similar to humans, not to mention the same
+        process of evolution by natural selection.
+        most animals are avoiders with pain receptors and brains, and with
+        modern neuroscience, we know that these parts play a significant role
+        in perceptual experience.
+        the next portion of the book deals with modern experimentation.
+        some examples include
+        <a href="https://en.wikipedia.org/wiki/Learned_helplessness">
+        psychological testing</a>,
+        <a href="https://en.wikipedia.org/wiki/Median_lethal_dose">
+        toxicology testing</a>,
+        <a href="https://en.wikipedia.org/wiki/Testing_cosmetics_on_animals">
+        cosmetics testing</a>,
+        and
+        <a href="https://en.wikipedia.org/wiki/Animal_testing#Care_and_use_of_animals">
+        disease testing</a>.
+        Singer shows that not only do the methods used cause a significant amount
+        of pain, but they are largely ineffective when trying to apply the results
+        to humans.
+        the epistemology of the researchers conducting these experimenters is
+        highly dubious, and a lot of the experiments are done for career progression
+        rather than for practical uses.
+        consenting human test subjects, computer simulations, <i>in vitro</i>
+        experimentation, and cutting useless testing/experiments are all more
+        ethical options in most cases.
+        the next portion of the book covered the suffering of animals in 
+        industrial farms, also highlighting the profit-seeking agenda of such
+        farmers and its horrible consequences for the animals.
+        the 40<sup>th</sup> anniversary edition of the book touches on climate
+        change and how inefficient animal agriculture is in terms of nutrient
+        extraction.
+        the next section goes through strategies of reducing suffering by 
+        consumer purchases.
+        Singer argues that with the economic properties of supply and demand,
+        boycotting such products will reduce demand, thus reducing supply.
+        finally, Singer takes us through historical figures and traditions to
+        show historical public perecption and how others viewed events
+        we consider atrocities today.
+        there was also a comparison of eastern and western philosophy in regards
+        to animal ethics with the western traditions failing miserably.
+        for example, St. Thomas Aquinas, Rene Descartes, and Immanuel Kant
+        all thought that animals either (a) do not feel pain or (b) do not have
+        intrinsic moral worth ((a) most likely implies (b)).
+        as an argument against speciesism, Singer introduces the
+        <a href="https://en.wikipedia.org/wiki/Argument_from_marginal_cases">
+        argument from marginal cases</a> which is essentially the following:
+
+        <blockquote>
+        Let \(\mathscr{C}\) be the set of all characteristics.
+        Suppose members of group \(G_1\) generally have characteristics
+        \(C_1\subseteq\mathscr{C}\) and members of group \(G_2\) generally have
+        characteristics \(C_2\subseteq\mathscr{C}\).
+        Then, if it is not immoral to perform action \(\mathcal{A}\) on a member of
+        \(G_2\) on the basis that such a member is lacking characteristics 
+        \(C_{\mathcal{A}}\subseteq C_1\setminus C_2\),
+        then performing \(\mathcal{A}\) on a member of \(G_1\) lacking
+        characteristics \(C_{\mathcal{A}}\) should likewise not be immoral.
+        </blockquote>
+
+        in the case of speciesism,
+        let \(G_1\) be humans,
+        \(G_2\) be another species,
+        and \(\mathcal{A}\) be either
+        medical experimentation,
+        hunting,
+        enslaving,
+        harming for trivial pleasure, etc.
+        the point being, humans are not as homogeneous as we would like to think.
+        now, if \(C_{\mathcal{A}}\) contains only group-referential 
+        characteristics
+        (e.g. selecting "the characteristic of being in group \(G_1\)"
+        as a characteristic for deciding moral worth),
+        then one is accepting arbitrary discrimination as valid moral reasoning
+        since there are no fundamental characteristics logically connected to 
+        \(\mathcal{A}\).
+        [applied ethics, bioethics]
+      </td>
+    </tr>
+
+    <tr>
+      <td><i>Hegel: A Very Short Introduction</i></td>
+      <td>1983</td>
+      <td>Peter Singer</td>
+      <td>
+        a quick look at some of Hegel's work and philosophy.
+        the book analyzes his lectures on the philosophy of history
+        (particularly Hegel's notion of "freedom")
+        and his philosophy of spirit
+        (Hegel's <i>Weltgeist</i>) and idealism.
+        ---
+        some more notes/thoughts:
+        a truly interesting figure ... 
+        [continental philosophy]
+      </td>
+    </tr>
+
+    <tr>
+      <td><i>The Book of Why: The New Science of Cause and Effect</i></td>
+      <td>2018</td>
+      <td>Judea Pearl and Dana Mackenzie</td>
+      <td>
+        ---
+        some more notes/thoughts:
+        still reading ...
+        [causality, probability, statistics]
       </td>
     </tr>
   </tbody>
