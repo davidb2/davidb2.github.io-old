@@ -20,7 +20,6 @@ pagination:
     <h2>{{ site.blog_description }}</h2>
     <!-- display the categories for notes -->
     <h6>
-      notes:
       {% for note in site.notes %}
         <a href="{{ note.url | prepend: site.url }}">{{ note.title }}</a>
         {% if forloop.last %}{% else %} | {% endif %}

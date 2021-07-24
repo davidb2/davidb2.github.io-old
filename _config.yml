@@ -88,12 +88,12 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  reviews:
+  notes:
     output: true
-    permalink: /reviews/:path/
+    permalink: /notes/:path/
   books:
     output: true
-    permalink: /reviews/books/:path/
+    permalink: /notes/books/:path/
 
 news_limit: 5
 
