@@ -1,6 +1,6 @@
 ---
 layout: page
-title: books
+title: book notes
 type: category
 ---
 
@@ -19,7 +19,7 @@ type: category
       <td>1945</td>
       <td>George Orwell</td>
       <td>
-        a story about farm arnimals revolting against the human farmers in an
+        a story about farm animals revolting against the human farmers in an
         attempt to be self-controlled.
         the plan seems to be a success as the farm animals scare off the farmer,
         but as the story progresses, the pigs of the farm steadily take the role
@@ -47,7 +47,7 @@ type: category
         and criticizing different strands of
         <a href="https://plato.stanford.edu/entries/compatibilism/">
         compatibilism</a>
-        the basic argument is that any proclaimation of causation necessitates
+        the basic argument is that any proclamation of causation necessitates
         some explanation of the ontology of an object.
         in the case of libertarian free will, somehow humans avoid this
         requirement, which Harris argues is inconsistent.
@@ -58,13 +58,14 @@ type: category
         with moral responsibility: "If we could incarcerate earthquakes and
         hurricanes for their crimes, we would build prisons for them as well. ...
         But the logic of punishing people will come undone &mdash; unless we
-        find that punishment is an essential component of deterrence or reabilitation."
+        find that punishment is an essential component of deterrence or
+        rehabilitation."
         very short book.
         ---
         some more notes/thoughts:
         compatibilists vary in their arguments.
-        someone like Daniel Dennett, who Harris mentions often thoughout the
-        text, claims that it might be possible for us to program machines which
+        someone like Daniel Dennett, who Harris mentions often throughout the
+        text, claims that it might be possible for us to program machines that
         have the emergent property of free will.
         but if we fully understand the capabilities of such a computer program,
         in what way does it objectively have free will?
@@ -77,23 +78,23 @@ type: category
         deterministic views and the original theological conceptions of the phrase:
         i) the former ultimately leads to metaphysical anti-realism accounts,
         which in large part necessarily undermine language, and ii) the
-        latter notion was based off of the lack of a proper understanding of
+        latter notion was based on the lack of a proper understanding of
         neuroscience, well at least if free will has anything to do with the
         brain/command center.
         the terms "decision" and "choice" are still accurate without free will:
         we all <i>decide</i> to take action, but we do not need to state our decision
-        or choice was free from bias, since decisions without libertarian free
+        or choice was free from bias since decisions without libertarian free
         will necessitate bias.
         a phrase like "actor A should have performed action X instead of action Y"
         does not mean
         that A had the capability to perform X instead of Y <i>in the past moment</i>,
         but that it instead would behoove A to <i>consider</i> performing X instead
         of Y in <i>similar future scenarios</i>, i.e. the ability to easily
-        <i>augment</i> the weights of A's decision making process without a large
+        <i>augment</i> the weights of A's decision-making process without a large
         expenditure of energy from other objects, a form of self-control.
         importantly, these ideas are not violating causation and are less
-        susceptible to equivocations of free will that give an unattainable degree
-        of moral responsibility.
+        susceptible to equivocations of free will that give an unattainable
+        degree of moral responsibility.
         so in conclusion, the term "free will" employed by various
         compatibilists is vague and prone to unwarranted equivocations,
         some of which might lead to the stagnation of moral progress.
@@ -101,7 +102,7 @@ type: category
         compatibilists advocating this would be called "soft determinists",
         a term on which Harris and Dennett's ideas seem to converge.
         further, the contemporary conversation around free will is fundamentally
-        flawed at best, and is focused on unimportant issues
+        flawed at best and is focused on unimportant issues
         (e.g. <i>ex nihilo</i> causation).
         [free will]
       </td>
@@ -118,7 +119,7 @@ type: category
         It seems that most criticisms fail to distinguish the act from the actor.
         Mill argues that when trying to decide which action is favorable, we
         should look at the outcome that has the most desirable consequences.
-        further, desirability is intrisically tied to the exemption of pains
+        further, desirability is intrinsically tied to the exemption of pains
         and the invitation of pleasures (or happiness).
         Mill's version of utilitarianism differs from Bentham's purely hedonistic
         utilitarianism; he argues that there are different measures of
@@ -184,7 +185,7 @@ type: category
         (e.g. sexed individuals among species).
         the idea behind kin selection is that an agent places weight on its
         interests directly proportional to the amount of shared genetic material.
-        in lots of animals and plants, siblings share 1/2 half of there genetic
+        in lots of animals and plants, siblings share 1/2 half of their genetic
         material in expectation, aunts/uncles 1/4, first cousins 1/8, etc.;
         children 1/2, grandchildren 1/4, great-grandchildren 1/8, etc.;
         parents 1/2, grandparents 1/4, great-grandparents 1/8, etc.;
@@ -194,25 +195,25 @@ type: category
         this is not always the case.
         for example, haplodiploidy is a system in which relatedness is asymmetric:
         mother-daughter and father-daughter relatedness is both 1/2 (symmetric),
-        but a son is related to his mother 1/2, a mother son has 100% relatedness,
-        a father cannot have a son,
-        brothers are related 1/2, sisters are related 3/4.
+        but a son is related to his mother 1/2, a mother-son has 100%
+        relatedness, a father cannot have a son, brothers are related 1/2,
+        sisters are related 3/4.
         all of this asymmetry leads to atypical behavior dynamics.
 
-        one of the shorter chapters towards the end of the book talk about the
+        one of the shorter chapters towards the end of the book talks about the
         new replicators, memes, which can evolve by non-genetic means, and at a
         rate even faster than genetic evolution.
         memes are cultural units that spread between brains.
-        our brains are full of these memes (e.g. ideas, catch-phrases, beliefs, etc.)
+        our brains are full of these memes (e.g. ideas, catchphrases, beliefs, etc.)
         and great memes are focused on fecundity (like genes).
-        one <i>possible*</i> example is the English catch phrase
+        one <i>possible*</i> example is the English catchphrase
         "i could care less!", spoken when presented with a perceived uninteresting
         potential conversational avenue: the intention of the phrase does not match
         its semantic properties; the phrase "i could <b>not</b> care less!" would
         make much more sense.
         however, it must be something with the rhythm, meter, and most
         descriptively, the cadence of the consonance (voiceless velar plosive)
-        of the former phrase that causes it to be more likely to be immitated;
+        of the former phrase that causes it to be more likely to be imitated;
         this is one explanation from a linguistic perspective that may or may
         not be true.
         [evolutionary biology]
@@ -232,12 +233,11 @@ type: category
         very well-written.
         each essay is merely around 1000 words, so the arguments are not
         rigorous in any way.
-        one of the conclusions reached by Singer is that if
-        if we think that the value of human life is generally
-        equal, then we should reflect this thinking when spending and donating
-        money.
-        this means that it becomes unjustified to place welfare priority of people
-        of your community above people of other communities.
+        one of the conclusions reached by Singer is that if if we think that the
+        value of human life is generally equal, then we should reflect this
+        thinking when spending and donating money.
+        this means that it becomes unjustified to place welfare priority of
+        people of your community above people of other communities.
         another brief essay is on the proposal to have a universal digital
         public library.
         [applied ethics]
@@ -245,7 +245,7 @@ type: category
     </tr>
 
     <tr>
-      <td><i>Conciousness Explained</i></td>
+      <td><i>Consciousness Explained</i></td>
       <td>1991</td>
       <td>Daniel Dennett</td>
       <td>
@@ -253,8 +253,9 @@ type: category
         and the multiple drafts model.
         ---
         some more thoughts:
-        long book ... still reading ... 
-        [philosophy of mind, neuroscience]
+        finished reading. need to fill in summary/comments.
+        long book.
+        [philosophy of mind, neuroscience, evolutionary biology]
       </td>
     </tr>
 
@@ -265,9 +266,10 @@ type: category
       <td>
         an overview of what we know about the neocortex,
         specifically detailing the evidence for the paradigm of reference
-        frames. second part of the book gives a high level account of
+        frames.
+        the second part of the book gives a high-level account of
         <a href="https://en.wikipedia.org/wiki/Hierarchical_temporal_memory">
-          hieracrchical temporal memory
+          hierarchical temporal memory
         </a>.
         the third part of the book speculates about the future of intelligence.
         ---
@@ -313,10 +315,10 @@ type: category
         that give strong evidence against the concept of the "self." 
         Metzinger examines phenomenological studies and other research in
         neuroscience to come to the following thesis:
-        consciuousness is the ability for a system to represent itself just like
+        consciousness is the ability for a system to represent itself just like
         it does with its surroundings.
         as a corollary, conscious beings are unable to <i>experience</i> a
-        complete loss of the phenomenonal self-model (PSM)
+        complete loss of the phenomenal self-model (PSM)
         (whose content is the "ego") because there would be no one experiencing
         it.
         this is most likely what happens during certain phases of sleep in
@@ -324,31 +326,34 @@ type: category
         however, Metzinger argues, it is possible to experience both a partial
         loss in the PSM and a physical extension of oneself.
         towards the end of the book, Metzinger proposes a new type of ethics,
-        "consciuousness ethics", so that society can focus on the science of
-        consciuousness without "sliding back into various forms of irrationalism
+        "consciousness ethics", so that society can focus on the science of
+        consciousness without "sliding back into various forms of irrationalism
         and fundamentalism."
         ---
         some more notes/thoughts:
         took the ethical concerns more seriously than other similar books on the
-        matter, though it was mainly raise questions rather than answering them.
+        matter, though it was mainly raising questions rather than answering
+        them.
         another interpretation of the book's thesis: religious and spiritual
         experiences are real in the phenomenological sense and can be explained
-        using solely a materialistic framework (as opposed to idealism, dualism, etc.).
-        thus, we can use this information about consciuousness to improve the
+        using solely a materialistic framework
+        (as opposed to idealism, dualism, etc.).
+        thus, we can use this information about consciousness to improve the
         world without the usual dogma and baggage found in ancient traditions.
         however, there are serious ethical implications associated with the
         topic.
 
         also, Metzinger says that we will not be able to necessarily have a
-        precise mathematical formulation of every possible brain state for humans;
-        this is because i) humans are good at distinguishing, but are terrible
-        at truly remembering sensations, and ii) the phenomenon of so called
+        precise mathematical formulation of every possible brain state for
+        humans;
+        this is because i) humans are good at distinguishing but are terrible
+        at truly remembering sensations, and ii) the phenomenon of so-called
         "qualia" is necessarily ineffable: we cannot describe our own systems
         because that would require a loss of the PSM.
         but, we should in theory be able to determine the degree of
-        consciuousness in a system.
-        as an example, feed forward artificial networks that are DAGs have no
-        capability for consciuousness; it does not mean they cannot "display"
+        consciousness in a system.
+        as an example, feed-forward artificial networks that are DAGs have no
+        capability for consciousness; it does not mean they cannot "display"
         intelligent behavior though.
 
         in the final chapters, Metzinger refutes Robert Nozick's
@@ -380,8 +385,8 @@ type: category
         compass in humans.
         Churchland makes discussion on mammalian brains and the different
         trade-offs made between species.
-        there is some discussion about the neurotransmitters and how they
-        affect the the brain and the body's actions.
+        there is some discussion about neurotransmitters and how they
+        affect the brain and the body's actions.
         the final chapters was a critical analysis of ethical systems people
         have devised over human history and why they have failed.
         ---
@@ -402,12 +407,60 @@ type: category
       <td>2003</td>
       <td>Daniel Dennett</td>
       <td>
-        a compatibilistic account for free will.
+        a compatibilist account for free will.
         by detailing Conway's Game of Life, the argument starts off by showing 
         how determinism does not imply fatalism.
-        Dennett distinguishes 
+        Dennett distinguishes logical necessity from physical necessity:
+        physical necessity is a brute nomological fact of existence, which,
+        in a cosmological perspective implies a sense of fatalism.
+        however, logical necessities are states that could follow with only
+        partially observed information.
+        so Dennett tries to say that logical necessity is all that should matter
+        since we are not omniscient.
+        in comparison to Conway's Game of Life, logical necessity is akin to,
+        at a fixed time point, examining small perturbations of the "universe"
+        and then predicting what, in most cases, would happen in those futures.
+        the next part of the argument is a refutation of libertarian free will
+        (LFW).
+        the problem with most strands of LFW is that it is not based on any
+        empirical evidence but is rather purely logically theorized without
+        examining modern neuroscience.
+        further, LFW is truly an incoherent idea that seems to even defy modern
+        physics (even indeterminism).
+        therefore, Dennett only focuses on Robert Kane's defense of LFW since it
+        does depend on Libet's experiment in neuroscience.
+        Dennett shows that Kane's idea of self-forming actions (SFAs)
+        may never happen in an individual's life:
+        SFAs do not necessarily occur in the moment leading up to an action, but
+        then that means that LFW was not necessarily "active" in the individual
+        in the moments prior to the action.
+        the third part of the book tries to show that moral responsibility is
+        what free will is really about, not ultimate causation.
+        this is similar to Kane's idea of ultimate responsibility but does not
+        need to invoke "ultimate."
+        finally, Dennett examines his own work on consciousness to make the
+        case that most humans (and perhaps other beings) can and should be held
+        morally responsible for their actions.
         ---
         some more notes/thoughts:
+        the writing style is very tangential which can be annoying at times, but
+        when the topics are intriguing, it is fun to read anyways.
+        this writing style is apparent in Dennett's other works as well.
+        it seems as though in the third part of the book, Dennett is
+        question-begging by stating that life would be bad if we didn't have
+        concepts such as retribution, fairness, etc.
+        Dennett starts to justify these concepts by turning to evolutionary
+        game theory, which is only descriptive in nature.
+        this is where the argument becomes suspicious.
+
+        Dennett seemed to downplay the role of environment into how decisions of 
+        blame and praise are made, an important part of the discussion.
+        what Dennett has made clear is that a statement like
+        "I didn't do it, it was my brain that made me do it!" merely 
+        demonstrates confusion about how the brain operates and is not a good
+        excuse for exemption from moral responsibility.
+
+        "stop that crow!"
         [free will, evolutionary biology, neuroscience]
       </td>
     </tr>
@@ -435,16 +488,16 @@ type: category
         do good in order to experience paradise, but good might necessarily 
         involve helping others.
         note the distinction between <i>behavior</i> and <i>intentions</i>.
-        on (2), it was never made clear why the distopian society had to be
+        on (2), it was never made clear why the dystopian society had to be
         communal.
-        consider a distopian society where everyone acts purely 
+        consider a dystopian society where everyone acts purely 
         individualistically such that there is no widespread dispersion
         of knowledge, not much cooperation going on, etc.
         people in this society might benefit by joining their talents together.
         so this is either a conclusion that (a) Rand did not provide why this
-        individualistic distopian society is unlikely to exist, or (b) Rand did
+        individualistic dystopian society is unlikely to exist, or (b) Rand did
         not answer (1).
-        [distopian fiction]
+        [dystopian fiction]
       </td>
     </tr>
 
@@ -453,8 +506,16 @@ type: category
       <td>2009</td>
       <td>Peter Singer</td>
       <td>
+        an argument for donating to effective charities.
+        the focus is on effective ways individuals can work towards reducing the
+        number of people in extreme poverty.
+        towards the end of the book, Singer examines the thoughts of past
+        philosophers and historical figures regarding charity.
         ---
         some more notes/thoughts:
+        the argument goes something like:
+        there is a lot of numbers/calculation/math in the book in order to show 
+        the effectiveness of certain charities.
         [applied ethics]
       </td>
     </tr>
@@ -478,12 +539,13 @@ type: category
         ---
         some more notes/thoughts:
         definitely an eye-opening book.
-        Singer uses a hedonistic utilitarian normative theory for this entirety
+        Singer uses a hedonistic utilitarian normative theory for the entirety
         of the book.
         the term "rigorous" was a bit of an understatement: the book starts off
-        by combating the neo-Cartesian view of philosophy of mind, that humans
-        are the only animals that can experience, feel, and comprehend pain.
-        to do this, Singer shows why solipsism is an untennable position and
+        by combating the neo-Cartesian view of the philosophy of mind,
+        that humans are the only animals that can experience, feel, and
+        comprehend pain.
+        to do this, Singer shows why solipsism is an untenable position and
         works from that argument to show that the same methods apply to
         organisms with brains very similar to humans, not to mention the same
         process of evolution by natural selection.
@@ -521,10 +583,10 @@ type: category
         Singer argues that with the economic properties of supply and demand,
         boycotting such products will reduce demand, thus reducing supply.
         finally, Singer takes us through historical figures and traditions to
-        show historical public perecption and how others viewed events
+        show historical public perception and how others viewed events
         we consider atrocities today.
-        there was also a comparison of eastern and western philosophy in regards
-        to animal ethics with the western traditions failing miserably.
+        there was also a comparison of eastern and western philosophy concerning
+        animal ethics with the western traditions failing miserably.
         for example, St. Thomas Aquinas, Rene Descartes, and Immanuel Kant
         all thought that animals either (a) do not feel pain or (b) do not have
         intrinsic moral worth ((a) most likely implies (b)).
@@ -537,29 +599,24 @@ type: category
         Suppose members of group \(G_1\) generally have characteristics
         \(C_1\subseteq\mathscr{C}\) and members of group \(G_2\) generally have
         characteristics \(C_2\subseteq\mathscr{C}\).
-        Then, if it is not immoral to perform action \(\mathcal{A}\) on a member of
-        \(G_2\) on the basis that such a member is lacking characteristics 
+        Then, if it is not immoral to perform action \(\mathcal{A}\) on a member
+        of \(G_2\) on the basis that such a member is lacking characteristics 
         \(C_{\mathcal{A}}\subseteq C_1\setminus C_2\),
         then performing \(\mathcal{A}\) on a member of \(G_1\) lacking
         characteristics \(C_{\mathcal{A}}\) should likewise not be immoral.
         </blockquote>
 
-        in the case of speciesism,
-        let \(G_1\) be humans,
-        \(G_2\) be another species,
-        and \(\mathcal{A}\) be either
-        medical experimentation,
-        hunting,
-        enslaving,
-        harming for trivial pleasure, etc.
-        the point being, humans are not as homogeneous as we would like to think.
-        now, if \(C_{\mathcal{A}}\) contains only group-referential 
+        now, if \(C_{\mathcal{A}}\) only contains ultimately group-referential 
         characteristics
-        (e.g. selecting "the characteristic of being in group \(G_1\)"
-        as a characteristic for deciding moral worth),
+        (e.g. selecting "the characteristic of being in group \(G_1\)"),
         then one is accepting arbitrary discrimination as valid moral reasoning
         since there are no fundamental characteristics logically connected to 
         \(\mathcal{A}\).
+        in the most prevalent cases of speciesism, let \(G_1\) be humans,
+        \(G_2\) be another species, and \(\mathcal{A}\) be either
+        medical experimentation, hunting, enslaving, euthanizing, harming for
+        trivial pleasure, etc.
+        the point being, humans are not as homogeneous as we would like to think.
         [applied ethics, bioethics]
       </td>
     </tr>
@@ -581,16 +638,17 @@ type: category
       </td>
     </tr>
 
+  <!--
     <tr>
       <td><i>The Book of Why: The New Science of Cause and Effect</i></td>
       <td>2018</td>
       <td>Judea Pearl and Dana Mackenzie</td>
       <td>
-        ---
         some more notes/thoughts:
         still reading ...
         [causality, probability, statistics]
       </td>
     </tr>
+  -->
   </tbody>
 </table>
